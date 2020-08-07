@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import Store from './Store';
 import DominoModal from './Modal';
 export default function PlayGround(props) {
